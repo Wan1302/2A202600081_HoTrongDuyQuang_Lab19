@@ -1,0 +1,9 @@
+{
+  "text_input_tokens": 190166,
+  "text_output_tokens": 2383,
+  "embedding_tokens": 450045,
+  "text_calls": 60,
+  "embedding_calls": 40,
+  "seconds": 223.6,
+  "estimated_cost_usd": 0.038956
+}

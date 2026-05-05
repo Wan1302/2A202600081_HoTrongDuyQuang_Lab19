@@ -1,0 +1,10 @@
+networkx
+matplotlib
+neo4j
+openai
+pandas
+langchain
+langchain-openai
+numpy
+python-dotenv
+requests

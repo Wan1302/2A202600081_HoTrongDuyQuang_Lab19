@@ -1,0 +1,509 @@
+{
+  "source": "Wikipedia MediaWiki API",
+  "api_url": "https://en.wikipedia.org/w/api.php",
+  "article_count": 100,
+  "max_chars_per_article": 2500,
+  "scraped_at": "2026-05-05T03:44:10.583614+00:00",
+  "articles": [
+    {
+      "id": "wiki_001_openai",
+      "title": "OpenAI",
+      "url": "https://en.wikipedia.org/wiki/OpenAI"
+    },
+    {
+      "id": "wiki_002_anthropic",
+      "title": "Anthropic",
+      "url": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "id": "wiki_003_google_deepmind",
+      "title": "Google DeepMind",
+      "url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+    },
+    {
+      "id": "wiki_004_google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "id": "wiki_005_microsoft",
+      "title": "Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "id": "wiki_006_meta_platforms",
+      "title": "Meta Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+    },
+    {
+      "id": "wiki_007_nvidia",
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "id": "wiki_008_apple_inc",
+      "title": "Apple Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "id": "wiki_009_amazon_company",
+      "title": "Amazon (company)",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+      "id": "wiki_010_ibm",
+      "title": "IBM",
+      "url": "https://en.wikipedia.org/wiki/IBM"
+    },
+    {
+      "id": "wiki_011_oracle_corporation",
+      "title": "Oracle Corporation",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation"
+    },
+    {
+      "id": "wiki_012_salesforce",
+      "title": "Salesforce",
+      "url": "https://en.wikipedia.org/wiki/Salesforce"
+    },
+    {
+      "id": "wiki_013_adobe_inc",
+      "title": "Adobe Inc.",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc."
+    },
+    {
+      "id": "wiki_014_intel",
+      "title": "Intel",
+      "url": "https://en.wikipedia.org/wiki/Intel"
+    },
+    {
+      "id": "wiki_015_amd",
+      "title": "AMD",
+      "url": "https://en.wikipedia.org/wiki/AMD"
+    },
+    {
+      "id": "wiki_016_qualcomm",
+      "title": "Qualcomm",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm"
+    },
+    {
+      "id": "wiki_017_arm_holdings",
+      "title": "Arm Holdings",
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings"
+    },
+    {
+      "id": "wiki_018_tsmc",
+      "title": "TSMC",
+      "url": "https://en.wikipedia.org/wiki/TSMC"
+    },
+    {
+      "id": "wiki_019_tesla_inc",
+      "title": "Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+    },
+    {
+      "id": "wiki_020_hugging_face",
+      "title": "Hugging Face",
+      "url": "https://en.wikipedia.org/wiki/Hugging_Face"
+    },
+    {
+      "id": "wiki_021_midjourney",
+      "title": "Midjourney",
+      "url": "https://en.wikipedia.org/wiki/Midjourney"
+    },
+    {
+      "id": "wiki_022_mistral_ai",
+      "title": "Mistral AI",
+      "url": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "id": "wiki_023_cohere",
+      "title": "Cohere",
+      "url": "https://en.wikipedia.org/wiki/Cohere"
+    },
+    {
+      "id": "wiki_024_scale_ai",
+      "title": "Scale AI",
+      "url": "https://en.wikipedia.org/wiki/Scale_AI"
+    },
+    {
+      "id": "wiki_025_palantir",
+      "title": "Palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir"
+    },
+    {
+      "id": "wiki_026_databricks",
+      "title": "Databricks",
+      "url": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "id": "wiki_027_snowflake_inc",
+      "title": "Snowflake Inc.",
+      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc."
+    },
+    {
+      "id": "wiki_028_servicenow",
+      "title": "ServiceNow",
+      "url": "https://en.wikipedia.org/wiki/ServiceNow"
+    },
+    {
+      "id": "wiki_029_uipath",
+      "title": "UiPath",
+      "url": "https://en.wikipedia.org/wiki/UiPath"
+    },
+    {
+      "id": "wiki_030_c3_ai",
+      "title": "C3 AI",
+      "url": "https://en.wikipedia.org/wiki/C3_AI"
+    },
+    {
+      "id": "wiki_031_cerebras",
+      "title": "Cerebras",
+      "url": "https://en.wikipedia.org/wiki/Cerebras"
+    },
+    {
+      "id": "wiki_032_graphcore",
+      "title": "Graphcore",
+      "url": "https://en.wikipedia.org/wiki/Graphcore"
+    },
+    {
+      "id": "wiki_033_groq",
+      "title": "Groq",
+      "url": "https://en.wikipedia.org/wiki/Groq"
+    },
+    {
+      "id": "wiki_034_waymo",
+      "title": "Waymo",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "id": "wiki_035_cruise_autonomous_vehicle",
+      "title": "Cruise (autonomous vehicle)",
+      "url": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)"
+    },
+    {
+      "id": "wiki_036_mobileye",
+      "title": "Mobileye",
+      "url": "https://en.wikipedia.org/wiki/Mobileye"
+    },
+    {
+      "id": "wiki_037_aurora_innovation",
+      "title": "Aurora Innovation",
+      "url": "https://en.wikipedia.org/wiki/Aurora_Innovation"
+    },
+    {
+      "id": "wiki_038_zoox",
+      "title": "Zoox",
+      "url": "https://en.wikipedia.org/wiki/Zoox"
+    },
+    {
+      "id": "wiki_039_nuro",
+      "title": "Nuro",
+      "url": "https://en.wikipedia.org/wiki/Nuro"
+    },
+    {
+      "id": "wiki_040_baidu",
+      "title": "Baidu",
+      "url": "https://en.wikipedia.org/wiki/Baidu"
+    },
+    {
+      "id": "wiki_041_alibaba_group",
+      "title": "Alibaba Group",
+      "url": "https://en.wikipedia.org/wiki/Alibaba_Group"
+    },
+    {
+      "id": "wiki_042_tencent",
+      "title": "Tencent",
+      "url": "https://en.wikipedia.org/wiki/Tencent"
+    },
+    {
+      "id": "wiki_043_huawei",
+      "title": "Huawei",
+      "url": "https://en.wikipedia.org/wiki/Huawei"
+    },
+    {
+      "id": "wiki_044_bytedance",
+      "title": "ByteDance",
+      "url": "https://en.wikipedia.org/wiki/ByteDance"
+    },
+    {
+      "id": "wiki_045_sensetime",
+      "title": "SenseTime",
+      "url": "https://en.wikipedia.org/wiki/SenseTime"
+    },
+    {
+      "id": "wiki_046_megvii",
+      "title": "Megvii",
+      "url": "https://en.wikipedia.org/wiki/Megvii"
+    },
+    {
+      "id": "wiki_047_iflytek",
+      "title": "IFlytek",
+      "url": "https://en.wikipedia.org/wiki/IFlytek"
+    },
+    {
+      "id": "wiki_048_yitu_technology",
+      "title": "Yitu Technology",
+      "url": "https://en.wikipedia.org/wiki/Yitu_Technology"
+    },
+    {
+      "id": "wiki_049_naver_corporation",
+      "title": "Naver Corporation",
+      "url": "https://en.wikipedia.org/wiki/Naver_Corporation"
+    },
+    {
+      "id": "wiki_050_kakao",
+      "title": "Kakao",
+      "url": "https://en.wikipedia.org/wiki/Kakao"
+    },
+    {
+      "id": "wiki_051_samsung_electronics",
+      "title": "Samsung Electronics",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Electronics"
+    },
+    {
+      "id": "wiki_052_lg_electronics",
+      "title": "LG Electronics",
+      "url": "https://en.wikipedia.org/wiki/LG_Electronics"
+    },
+    {
+      "id": "wiki_053_sony",
+      "title": "Sony",
+      "url": "https://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "id": "wiki_054_nec",
+      "title": "NEC",
+      "url": "https://en.wikipedia.org/wiki/NEC"
+    },
+    {
+      "id": "wiki_055_fujitsu",
+      "title": "Fujitsu",
+      "url": "https://en.wikipedia.org/wiki/Fujitsu"
+    },
+    {
+      "id": "wiki_056_hitachi",
+      "title": "Hitachi",
+      "url": "https://en.wikipedia.org/wiki/Hitachi"
+    },
+    {
+      "id": "wiki_057_softbank_group",
+      "title": "SoftBank Group",
+      "url": "https://en.wikipedia.org/wiki/SoftBank_Group"
+    },
+    {
+      "id": "wiki_058_rakuten",
+      "title": "Rakuten",
+      "url": "https://en.wikipedia.org/wiki/Rakuten"
+    },
+    {
+      "id": "wiki_059_sap",
+      "title": "SAP",
+      "url": "https://en.wikipedia.org/wiki/SAP"
+    },
+    {
+      "id": "wiki_060_siemens",
+      "title": "Siemens",
+      "url": "https://en.wikipedia.org/wiki/Siemens"
+    },
+    {
+      "id": "wiki_061_bosch_company",
+      "title": "Bosch (company)",
+      "url": "https://en.wikipedia.org/wiki/Bosch_(company)"
+    },
+    {
+      "id": "wiki_062_philips",
+      "title": "Philips",
+      "url": "https://en.wikipedia.org/wiki/Philips"
+    },
+    {
+      "id": "wiki_063_thales_group",
+      "title": "Thales Group",
+      "url": "https://en.wikipedia.org/wiki/Thales_Group"
+    },
+    {
+      "id": "wiki_064_atos",
+      "title": "Atos",
+      "url": "https://en.wikipedia.org/wiki/Atos"
+    },
+    {
+      "id": "wiki_065_deloitte",
+      "title": "Deloitte",
+      "url": "https://en.wikipedia.org/wiki/Deloitte"
+    },
+    {
+      "id": "wiki_066_booz_allen_hamilton",
+      "title": "Booz Allen Hamilton",
+      "url": "https://en.wikipedia.org/wiki/Booz_Allen_Hamilton"
+    },
+    {
+      "id": "wiki_067_lockheed_martin",
+      "title": "Lockheed Martin",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin"
+    },
+    {
+      "id": "wiki_068_rtx_corporation",
+      "title": "RTX Corporation",
+      "url": "https://en.wikipedia.org/wiki/RTX_Corporation"
+    },
+    {
+      "id": "wiki_069_northrop_grumman",
+      "title": "Northrop Grumman",
+      "url": "https://en.wikipedia.org/wiki/Northrop_Grumman"
+    },
+    {
+      "id": "wiki_070_anduril_industries",
+      "title": "Anduril Industries",
+      "url": "https://en.wikipedia.org/wiki/Anduril_Industries"
+    },
+    {
+      "id": "wiki_071_shield_ai",
+      "title": "Shield AI",
+      "url": "https://en.wikipedia.org/wiki/Shield_AI"
+    },
+    {
+      "id": "wiki_072_grammarly",
+      "title": "Grammarly",
+      "url": "https://en.wikipedia.org/wiki/Grammarly"
+    },
+    {
+      "id": "wiki_073_duolingo",
+      "title": "Duolingo",
+      "url": "https://en.wikipedia.org/wiki/Duolingo"
+    },
+    {
+      "id": "wiki_074_canva",
+      "title": "Canva",
+      "url": "https://en.wikipedia.org/wiki/Canva"
+    },
+    {
+      "id": "wiki_075_snap_inc",
+      "title": "Snap Inc.",
+      "url": "https://en.wikipedia.org/wiki/Snap_Inc."
+    },
+    {
+      "id": "wiki_076_pinterest",
+      "title": "Pinterest",
+      "url": "https://en.wikipedia.org/wiki/Pinterest"
+    },
+    {
+      "id": "wiki_077_spotify",
+      "title": "Spotify",
+      "url": "https://en.wikipedia.org/wiki/Spotify"
+    },
+    {
+      "id": "wiki_078_netflix",
+      "title": "Netflix",
+      "url": "https://en.wikipedia.org/wiki/Netflix"
+    },
+    {
+      "id": "wiki_079_uber",
+      "title": "Uber",
+      "url": "https://en.wikipedia.org/wiki/Uber"
+    },
+    {
+      "id": "wiki_080_inflection_ai",
+      "title": "Inflection AI",
+      "url": "https://en.wikipedia.org/wiki/Inflection_AI"
+    },
+    {
+      "id": "wiki_081_character_ai",
+      "title": "Character.ai",
+      "url": "https://en.wikipedia.org/wiki/Character.ai"
+    },
+    {
+      "id": "wiki_082_perplexity_ai",
+      "title": "Perplexity AI",
+      "url": "https://en.wikipedia.org/wiki/Perplexity_AI"
+    },
+    {
+      "id": "wiki_083_runway_company",
+      "title": "Runway (company)",
+      "url": "https://en.wikipedia.org/wiki/Runway_(company)"
+    },
+    {
+      "id": "wiki_084_replit",
+      "title": "Replit",
+      "url": "https://en.wikipedia.org/wiki/Replit"
+    },
+    {
+      "id": "wiki_085_veritone",
+      "title": "Veritone",
+      "url": "https://en.wikipedia.org/wiki/Veritone"
+    },
+    {
+      "id": "wiki_086_soundhound_ai",
+      "title": "SoundHound AI",
+      "url": "https://en.wikipedia.org/wiki/SoundHound_AI"
+    },
+    {
+      "id": "wiki_087_appen_company",
+      "title": "Appen (company)",
+      "url": "https://en.wikipedia.org/wiki/Appen_(company)"
+    },
+    {
+      "id": "wiki_088_insilico_medicine",
+      "title": "Insilico Medicine",
+      "url": "https://en.wikipedia.org/wiki/Insilico_Medicine"
+    },
+    {
+      "id": "wiki_089_tempus_ai",
+      "title": "Tempus AI",
+      "url": "https://en.wikipedia.org/wiki/Tempus_AI"
+    },
+    {
+      "id": "wiki_090_owkin",
+      "title": "Owkin",
+      "url": "https://en.wikipedia.org/wiki/Owkin"
+    },
+    {
+      "id": "wiki_091_darktrace",
+      "title": "Darktrace",
+      "url": "https://en.wikipedia.org/wiki/Darktrace"
+    },
+    {
+      "id": "wiki_092_fico",
+      "title": "FICO",
+      "url": "https://en.wikipedia.org/wiki/FICO"
+    },
+    {
+      "id": "wiki_093_sas_institute",
+      "title": "SAS Institute",
+      "url": "https://en.wikipedia.org/wiki/SAS_Institute"
+    },
+    {
+      "id": "wiki_094_knime",
+      "title": "KNIME",
+      "url": "https://en.wikipedia.org/wiki/KNIME"
+    },
+    {
+      "id": "wiki_095_wolfram_research",
+      "title": "Wolfram Research",
+      "url": "https://en.wikipedia.org/wiki/Wolfram_Research"
+    },
+    {
+      "id": "wiki_096_opentext",
+      "title": "OpenText",
+      "url": "https://en.wikipedia.org/wiki/OpenText"
+    },
+    {
+      "id": "wiki_097_clarifai",
+      "title": "Clarifai",
+      "url": "https://en.wikipedia.org/wiki/Clarifai"
+    },
+    {
+      "id": "wiki_098_element_ai",
+      "title": "Element AI",
+      "url": "https://en.wikipedia.org/wiki/Element_AI"
+    },
+    {
+      "id": "wiki_099_vicarious_company",
+      "title": "Vicarious (company)",
+      "url": "https://en.wikipedia.org/wiki/Vicarious_(company)"
+    },
+    {
+      "id": "wiki_100_affectiva",
+      "title": "Affectiva",
+      "url": "https://en.wikipedia.org/wiki/Affectiva"
+    }
+  ]
+}
