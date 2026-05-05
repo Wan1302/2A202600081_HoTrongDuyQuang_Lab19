@@ -1,5 +1,7 @@
 # Báo cáo Lab Day 19: GraphRAG với 100 bài Wikipedia về công ty AI
 
+## Hồ Trọng Duy Quang - 2A202600081
+
 ## 1. Corpus
 
 Corpus của bài lab gồm 100 bài Wikipedia về các công ty AI và các công ty công nghệ có liên quan đến AI. Dữ liệu được thu thập bằng script `scrape_wikipedia_ai_companies.py` thông qua Wikipedia MediaWiki API.
@@ -99,19 +101,19 @@ Thống kê từ `outputs/token_usage.json`:
 
 | Metric | Value |
 |---|---:|
-| Text input tokens | 190,166 |
-| Text output tokens | 2,383 |
-| Embedding tokens | 450,045 |
-| Text calls | 60 |
+| Text input tokens | 233,348 |
+| Text output tokens | 33,539 |
+| Embedding tokens | 449,777 |
+| Text calls | 160 |
 | Embedding calls | 40 |
-| Runtime | 223.6 seconds |
-| Estimated cost | $0.038956 |
+| Runtime | 921.465 seconds |
+| Estimated cost | $0.064121 |
 
-Lần chạy này dùng lại `outputs/triples.json` nên không phải trích triples lại từ 100 bài Wikipedia. Vì vậy số text calls và chi phí thấp hơn so với chạy full extraction từ đầu.
+Số liệu này tương ứng với lần chạy full end-to-end, bao gồm cả bước trích triples từ 100 bài Wikipedia, build graph, tạo embeddings, chạy Flat RAG và chạy GraphRAG.
 
 ## 7. Thiết kế benchmark mới
 
-Bộ benchmark mới gồm 20 câu hỏi dạng multi-hop/graph-shaped. Mỗi câu bắt đầu từ một entity cụ thể và yêu cầu tổng hợp nhiều quan hệ xung quanh entity đó.
+Bộ benchmark gồm 20 câu hỏi dạng multi-hop/graph-shaped. Mỗi câu bắt đầu từ một entity cụ thể và yêu cầu tổng hợp nhiều quan hệ xung quanh entity đó.
 
 Ví dụ:
 
